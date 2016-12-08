@@ -1,8 +1,6 @@
-/*
-# Imei of Device in C
-    # @author Son182
-    # @Date : 2016-12-08
-*/
+//Imei of Device in C
+//@author Son182
+//@Date : 2016-12-08
 
 #include <jni.h>
 #include <malloc.h>
